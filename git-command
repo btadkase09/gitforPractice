@@ -6,3 +6,7 @@ git clone
 git pull
 git push
 git fetch
+git log 
+git log --oneline
+git
+log --oneline --pretty
