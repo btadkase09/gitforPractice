@@ -2,3 +2,7 @@ git init
 it status
 git add
 git commit -m
+git clone
+git pull
+git push
+git fetch
